@@ -28,4 +28,4 @@ Here are a few projects I'm proud of:
 - LinkedIn: [Zisis Lazakis](https://gr.linkedin.com/in/zisis-lazakis-075065158)
 
 
-Feel free to explore my repositories and reach out if you have any questions or just want to connect! 😊
+Feel free to explore my repositories and reach out if you have any questions or just want to connect!
