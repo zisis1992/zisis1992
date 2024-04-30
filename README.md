@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**zisis1992/zisis1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm [Zisis Lazakis], and I love building cool projects and exploring new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning [Python, JavaScript, SQLite3].
+- 📫 How to reach me: [zisislaz@gmail.com]
+
+## Technologies & Tools
+
+Here are some technologies and tools I enjoy working with:
+
+- Programming Languages: [Python, Bash Scripting]
+- Web Development: [HTML, CSS, JavaScript]
+- Databases: [SQLite3]
+  
+## Projects
+
+Here are a few projects I'm proud of:
+
+1. warehouse4you - A simple warehouse management suite.
+
+
+## Let's Connect
+
+- LinkedIn: [Zisis Lazakis](https://gr.linkedin.com/in/zisis-lazakis-075065158)
+
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect! 😊
