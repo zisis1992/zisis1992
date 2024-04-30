@@ -11,9 +11,10 @@ Welcome to my GitHub profile! I'm [Zisis Lazakis], and I love building cool proj
 
 Here are some technologies and tools I enjoy working with:
 
-- Programming Languages: Python, Bash Scripting
+- Programming Languages: Python, Bash
 - Web Development: HTML, CSS, JavaScript
 - Databases: SQLite3
+- Tools & Platforms: Debian based Linux distributions , Docker
   
 ## Projects
 
