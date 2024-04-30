@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [Zisis Lazakis], and I love building cool projects and exploring new technologies.
+Welcome to my GitHub profile! I'm Zisis Lazakis, and I love building cool projects and exploring new technologies.
 
 ## About Me
 
