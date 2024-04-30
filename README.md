@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm [Zisis Lazakis], and I love building cool proj
 
 ## About Me
 
-- 🌱 I’m currently learning [Python, JavaScript, SQLite3].
+- 🌱 I’m currently learning Python, JavaScript, SQLite3
 - 📫 How to reach me: zisislaz@gmail.com
 
 ## Technologies & Tools
