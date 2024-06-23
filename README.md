@@ -20,7 +20,7 @@ Here are some technologies and tools I enjoy working with:
 
 Here are a few projects I'm proud of:
 
-1. warehouse4you - A simple warehouse management suite (still in progress - not yet published).
+- warehouse4you - A simple warehouse management suite (still in progress - not yet published).
 
 
 ## Let's Connect
