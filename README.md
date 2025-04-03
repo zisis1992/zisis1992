@@ -11,9 +11,11 @@ Welcome to my GitHub profile! I'm Zisis Lazakis, and I love building cool projec
 
 Here are some technologies and tools I enjoy working with:
 
-- Programming Languages: Python, Bash
+- Programming Languages: Python, Java
+- Frameworks: Django, Springboot
+- Scripting: Bash
 - Web Development: HTML, CSS, JavaScript
-- Databases: SQLite3
+- Databases: SQLite3, PostgreSQL
 - Tools & Platforms: Debian based Linux distributions , Docker
   
 ## Projects
@@ -21,6 +23,7 @@ Here are some technologies and tools I enjoy working with:
 Here are a few projects I'm proud of:
 
 - warehouse4you - A simple warehouse management suite (still in progress - not yet published).
+- Appointment Arrangement App: In progress.
 
 
 ## Let's Connect
